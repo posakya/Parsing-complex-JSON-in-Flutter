@@ -2,6 +2,12 @@
 
 Different Type of JsonParsing
 
+#Go to this link https://javiercbk.github.io/json_to_dart/ if you don't want to mannually create a PODO class
+
+#For reference please visit https://medium.com/flutter-community/parsing-complex-json-in-flutter-747c46655f51
+
+#Thanking Pooja Bhaumik for her post in medium.com
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
