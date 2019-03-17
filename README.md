@@ -8,6 +8,8 @@ Different Type of JsonParsing
 
 #Thanking Pooja Bhaumik for her post in medium.com
 
+#Also thanking Javier Lecuona for providing us online platform to generate a PODO(Plain Old Dart Object) class from json 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
