@@ -1,0 +1,44 @@
+[
+  {
+    "MCatID": "1",
+    "MCatName": "SALAD",
+    "Products": [
+      {
+        "MID": "1",
+        "MDetail": "GREEN SALAD",
+        "Mprice": "180"
+      },
+      {
+        "MID": "2",
+        "MDetail": "Red SALAD",
+        "Mprice": "280"
+      },
+      {
+        "MID": "3",
+        "MDetail": "Blue SALAD",
+        "Mprice": "380"
+      }
+    ]
+  },
+  {
+    "MCatID": "2",
+    "MCatName": "Paneer",
+    "Products": [
+      {
+        "MID": "1",
+        "MDetail": "GREEN SALAD",
+        "Mprice": "180"
+      },
+      {
+        "MID": "2",
+        "MDetail": "Red SALAD",
+        "Mprice": "280"
+      },
+      {
+        "MID": "3",
+        "MDetail": "Blue SALAD",
+        "Mprice": "380"
+      }
+    ]
+  }
+]
